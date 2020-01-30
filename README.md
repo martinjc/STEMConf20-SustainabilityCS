@@ -2,9 +2,13 @@
 
 Notes from the session "Embedding Sustainability in the Computer Science Curriculum" at the AdvanceHE STEM Conference 2020
 
-## Topics for Discussion
+## Discussion
 
--   ...
+-   reframing the issue - it is not about getting sustainability into CS, but rather showing that CS is going to be an integral part of any solution to sustainability problems
+-   not all SDGs are going to be completely relevant
+-   everyone has the same problem - 'how do I embed sustainability in X?' when realistically we need a holistic view across the whole institution
+-   we can't deal with the whole sustainability agenda on a subject level but should be able to cope with it at an institutional level
+-   cross-discipline projects would be a big benefit
 
 ## Potential Questions
 
